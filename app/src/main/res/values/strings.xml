@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wheather Test</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_wheather_API_key">03053bae158086db7457beca4d7fe31c</string>
+</resources>
